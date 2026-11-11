@@ -1,0 +1,45 @@
+﻿Centuries End Exorcist — Alpha5 / 世纪末驱魔人：第三方署名
+
+Godot Engine — https://godotengine.org/
+Copyright (c) Godot Engine contributors. MIT license and engine third-party notices:
+https://godotengine.org/license/
+
+9mm Pistol — m7md_3bdh
+https://sketchfab.com/3d-models/9mm-pistol-e377558eac6c482c90f6ecf3c79785cd
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Adapted for the game's first-person weapon presentation, materials and moving components.
+
+9mm Pistol | First Person Animations — 1Matzh
+https://sketchfab.com/3d-models/9mm-pistol-first-person-animations-c26d7f5aa72f4b01a6da4578caa8f07f
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Arms, poses and animations adapted for the game's first-person presentation.
+The original description also credits Urpo (original pistol) and Blue-Spirit (Modern Soldier).
+The visible pistol uses the separately credited m7md_3bdh model.
+
+Additional asset credits (CC0 unless stated otherwise):
+Kenney — Foliage Sprites: https://kenney.nl/assets/foliage-sprites
+stephanrobertgames — German Police Officer SET: https://stephrobertgames.itch.io/german-police-officer-set
+Quaternius — Lightning Gun: https://quaternius.com/packs/scifigun.html
+Kay Lousberg — KayKit Skeletons: https://kaylousberg.itch.io/kaykit-skeletons
+EVIL_ENT — Lightning Sprite Texture: https://opengameart.org/content/lightning-sprite-texture
+Binbun — Magic Projectiles VFX: https://binbun3d.itch.io/magic-projectiles-vfx
+Binbun — Beam VFX: https://binbun3d.itch.io/beam-vfx
+CGHEVEN / Ammar Khan — VFX flipbooks: https://cgheven.com/
+Unity Labs — VFX image sequences and flipbooks: https://unity.com/blog/engine-platform/free-vfx-image-sequences-flipbooks
+Amal Kumar / Poly Haven — Cracked Red Ground: https://polyhaven.com/a/cracked_red_ground
+Magic Circle Blank 03: https://freepngimg.com/svg/158952-magic-circle-blank-03
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+pkostudio — SWAT Game Character (CGTrader Royalty Free License, No AI)
+https://www.cgtrader.com/free-3d-models/military/military-character/special-force-d968dd98-490d-4054-91c3-11ba2df79da4
+Included as an incorporated game asset; not distributed as a standalone model.
+
+Alibaba Design / Hanyi Fonts — Alibaba PuHuiTi Regular
+https://fonts.alibabagroup.com/#/font
+Embedded for game text under the published free-commercial-use terms.
+
+Production tools include Godot, Blender and Tripo. Tripo was used to generate
+3D model bases from concept artwork, followed by further asset preparation.
+Third-party components retain their respective licenses. These credits do not
+grant a blanket open-source license to the game or its original content.
+第三方素材保留各自许可；本试玩发布不代表游戏原创内容整体开源。
